@@ -5,7 +5,7 @@ Here we have a little task for you!
 
 ## Mission
 1. Fork this Repo into your own Github Account
-2. Create a Powermail contact form with the possibility to register for a newsletter as an optional option. If the option for a newsletter registration has been chosen a additional opt-in process for e-mail verification should be triggered. If the option has not been chosen no opt-in process is needed.
+2. Create a Powermail contact form with the possibility to register for a newsletter as an optional option. If the option for a newsletter registration has been chosen, a additional opt-in process for e-mail verification should be triggered. If the option has not been chosen, no opt-in process is needed.
 3. Create a Powermail form holding the following fields
  - Firstname (text)
  - Lastname (text)
@@ -14,7 +14,7 @@ Here we have a little task for you!
  - Description (textare)
  - Register newsletter (checkbox)
  - Accept privacy policy (checkbox)
-4. Create a extension and register on a signal slot for triggering the opt-in process in Powermail.
+4. Create a extension and register a signal slot for triggering the opt-in process in Powermail.
 5. Send us a pull request.
 
 ## How we test
