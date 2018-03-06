@@ -14,12 +14,12 @@ Here we have a little task for you!
  - Description (textare)
  - Register newsletter (checkbox)
  - Accept privacy policy (checkbox)
-4. Create a extension and register a signal slot for triggering the opt-in process in Powermail.
+4. Create a extension and register a signal slot for triggering the opt-in process in Powermail (Send a mail to the given E-Mail address).
 5. Send us a pull request.
 
 ## How we test
-* We will clone this repo into an empty WordPress installations plugins folder
-* We will enable the plugin in the backend
+* We will clone this repo into an empty TYPO3 system
+* We will enable the extension in the backend
 * We will review your code approach with our team.
 
 ## Rules of engagement
