@@ -1,4 +1,4 @@
-# schalk&friends TYPO3 Trial work
+# schalk&friends - TYPO3 Trial work
 So, you want to join our awesome TYPO3 Team?
 
 Here we have a little task for you!
