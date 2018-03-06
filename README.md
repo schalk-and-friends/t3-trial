@@ -18,8 +18,10 @@ Here we have a little task for you!
 5. Send us a pull request.
 
 ## How we test
-* We will clone this repo into an empty TYPO3 system
-* We will enable the extension in the backend
+* We will clone this repo into an empty TYPO3 system.
+* We will enable the extension in the backend.
+* We will fill the contact form with reasonable data and without having the newsletter registration option checked.
+* We will fill the contact form with reasonable data having the newsletter registration option checked.
 * We will review your code approach with our team.
 
 ## Rules of engagement
